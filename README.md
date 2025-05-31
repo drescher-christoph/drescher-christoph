@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drescher-christoph
-- 👀 I’m interested in Blockahin, DeFi, Web3, Robotics & Artificial Intelligence
+- 👀 I’m interested in Blockchain, DeFi, Web3, Robotics & Artificial Intelligence
 - 🌱 I’m currently learning Smart Contract Development with Solidity
 - 📫 How to reach me: chriscode03@gmail.com
 
